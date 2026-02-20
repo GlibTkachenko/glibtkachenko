@@ -1,7 +1,8 @@
+
 <div align="center">
 
 # Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi">! I'm Glib
-**Undergraduare AI Researcher** |  **Passionate Problem Solver**  
+**Undergraduare Researcher @ Insight SFI** |  **Tech Lead (UCC & IBM Research Collaboration)**
 
 </div>
 
@@ -9,25 +10,21 @@
 
 ### About Me
 
-- **Data Science & AI** student passionate about **ML & AI** and **Robotics**  
-- Constantly learning and exploring cutting-edge technologies in AI and ML.  
-- I love applying math to solve real-world problems and build intelligent systems.  
-- I enjoy turning my ideas into working solutions and contributing to impactful projects.  
-
+- Data Science & AI @ University College Cork 
+- I am interested in building systems that can autonomously model and navigate complex environments to reason and act intelligently within them.
+- Currently researching  Agentic Cognitive Architectures and Dynamical Systems through a research collaboration with IBM Research.
 ---
 
-### What I'm Up To 
-- Undergraduate Researcher @ Insight SFI Research Centre for Data Analytics, contributing to the ToolBrain collaboration (UCC, UCD, IBM) on reasoning-driven AI and autonomous tool-us.
-- Developing personal projects
 
----
 
 ### My Favourite Projects
 
 | Project | What it does | Tech | Status |
 |---------|--------------|------|--------|
-| **HERMES** – *Hybrid Exoplanet Recognition & Multi-planet Extraction* | Processes raw stellar light curves to automatically detect exoplanets, including multi-planet systems. It combines transformer models with physics-based orbital consistency checks, producing clean transit candidates with very fast inference. | JAX, Flax, Gin, Abseil, NumPy, Astropy | 🌐 [Repo](https://github.com/OrryxTeam/hermes)|
-| **Terrain Recognition** *(Aerial CV System)* | Detects roads, buildings, runways, vehicles, and other terrain features from high-altitude imagery. The project includes full data preparation for COCO-80 and xView datasets, custom training runs for Faster R-CNN and a ViT-based variant, and a lightweight inference pipeline for large satellite tiles. | PyTorch, Faster R-CNN, ViT, xView, AWS | 🔒 Code/docs available on request |
+| **Agentic Cognitive Architecture** | Developing an autonomous framework for Active Workflow Discovery and high-efficiency simulation in discrete tool ecosystems. | PyTorch, Python | 🔒 Internal Research |
+| **HERMES** – *Hybrid Exoplanet Recognition & Multi-planet Extraction* | Processes raw stellar light curves to automatically detect exoplanets, including multi-planet systems. Combines transformer models with physics-based orbital consistency checks, producing clean transit candidates with very fast inference. | JAX, Flax, Gin, Abseil, NumPy, Astropy | 🌐 [Repo](https://github.com/OrryxTeam/hermes)|
+| **Attnax** | A library of transformer primitives built on JAX and Flax NNX. Provides modular, composable components for building architectures without rewriting standard blocks from scratch. | JAX, Flax, Python | 🌐 [Repo](https://github.com/GlibTkachenko/attnax)
+| **MiniGrad** | A clean-room educational deep learning engine built from scratch to explore Autograd mechanics. | Python, NumPy | 🌐 [Repo](https://github.com/GlibTkachenko/minigrad) |
 
 ---
 <details>
@@ -41,13 +38,8 @@
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"        width="42"/><br/>C++</td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"                   width="42"/><br/>Go</td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"        width="42"><br>Rust</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   width="42"/><br/>JavaScript</td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"               width="42"/><br/>Java</td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"              width="42"/><br/>C#</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"              width="42"/><br/>Django</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"             width="42"/><br/>Flask</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"      width="42"/><br/>HTML</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"        width="42"/><br/>CSS</td>
 </tr></table>
 
 ### Data-Science / ML / NLP / CV
@@ -87,4 +79,3 @@
 
 
             
-          
