@@ -11,8 +11,8 @@
 ### About Me
 
 - Data Science & AI @ University College Cork 
+- Currently researching world models and agentic systems through a research collaboration with IBM Research.
 - I am interested in building systems that can autonomously model and navigate complex environments to reason and act intelligently within them.
-- Currently researching  Agentic Cognitive Architectures and Dynamical Systems through a research collaboration with IBM Research.
 ---
 
 
@@ -20,11 +20,11 @@
 ### My Favourite Projects
 
 | Project | What it does | Tech | Status |
-|---------|--------------|------|--------|
-| **Agentic Cognitive Architecture** | Developing an autonomous framework for Active Workflow Discovery and high-efficiency simulation in discrete tool ecosystems. | PyTorch, Python | 🔒 Internal Research |
-| **HERMES** – *Hybrid Exoplanet Recognition & Multi-planet Extraction* | Processes raw stellar light curves to automatically detect exoplanets, including multi-planet systems. Combines transformer models with physics-based orbital consistency checks, producing clean transit candidates with very fast inference. | JAX, Flax, Gin, Abseil, NumPy, Astropy | 🌐 [Repo](https://github.com/OrryxTeam/hermes)|
-| **Attnax** | A library of transformer primitives built on JAX and Flax NNX. Provides modular, composable components for building architectures without rewriting standard blocks from scratch. | JAX, Flax, Python | 🌐 [Repo](https://github.com/GlibTkachenko/attnax)
-| **MiniGrad** | A clean-room educational deep learning engine built from scratch to explore Autograd mechanics. | Python, NumPy | 🌐 [Repo](https://github.com/GlibTkachenko/minigrad) |
+|---|---|---|---|
+| **Attnax** <br> *(Attention for JAX)* | Pluggable attention kernels and transformer components for JAX and Flax NNX. Includes hardware-accelerated backends (FlashAttention via Pallas, Ring, Paged), composable sequence biases, and Vision Transformer modules. | JAX, Flax, Pallas | 🌐 [Repo](https://github.com/GlibTkachenko/attnax) |
+| **HERMES** <br> *(Hybrid Exoplanet Recognition & Multi-planet Extraction)* | Processes raw stellar light curves to automatically detect exoplanets. Combines transformer models with physics-based orbital consistency checks, producing clean transit candidates with fast inference. | JAX, Flax, Astropy | 🌐 [Repo](https://github.com/OrryxTeam/hermes) |
+| **Tool World Model** <br> *(UCC & IBM Research)* | Developing a closed-loop system for autonomous workflow discovery in discrete tool ecosystems, using topological optimization and latent dynamics for efficient simulation. | PyTorch, Python | 🔒 Internal Research |
+| **MiniGrad** | A clean-room educational deep learning engine built from scratch to explore Autograd mechanics and computational graph execution. | Python, NumPy | 🌐 [Repo](https://github.com/GlibTkachenko/minigrad) |
 
 ---
 <details>
