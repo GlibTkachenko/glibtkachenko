@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi">! I'm Glib
-**Undergraduare Researcher @ Insight SFI Centre**
+**Undergraduare Researcher @ Rinn AI**
 
 </div>
 
@@ -9,17 +9,16 @@
 
 ### About Me
 
-- Data Science & AI @ University College Cork 
-- Currently leading the Tool World Model research stream, a collaboration between UCC and IBM Research
-- I am interested in world models, neural optimization, and robotics
+- BSc in Data Science & AI at University College Cork
+- Technical lead on the Tool World Model project, a collaboration between UCC and IBM Research
+- Interested in world models, AI for physics and mathematics, and quantum computing
 
 ---
 
-### My Favourite Projects
+### Selected Projects
 
-| Project | What it does | Tech | Status |
+| Project | What it is | Tech | Links |
 |---|---|---|---|
-| **Attnax** <br> *(Attention for JAX)* | Pluggable attention kernels and transformer components for JAX and Flax NNX. Includes hardware-accelerated backends (FlashAttention via Pallas, Ring, Paged), composable sequence biases, and Vision Transformer modules. | JAX, Flax, Pallas | 🌐 [Repo](https://github.com/GlibTkachenko/attnax) |
-| **Tool World Model** <br> *(UCC & IBM Research)* | Closed-loop architecture for tool-using agents: learned world model, counterfactual data engine, RL-trained policy, and graph planner. Agents discover workflows no documentation describes. | PyTorch, Python | 🔒 Internal Research |
-| **Adaptive Activation Functions** <br> *Empricial Replication* | Independent replication and stress-test of adaptive activation functions (Jagtap et al.) across function approximation, PINNs, and image classification. | Java 17, Python | 🌐 [Repo](https://github.com/GlibTkachenko/jagtap2020-java) |
-| **HERMES** <br> *(Hybrid Exoplanet Recognition & Multi-planet Extraction)* | Hybrid transformer for multi-planet detection from Kepler light curves, combining learned features with physics-based orbital consistency checks. | JAX, Flax, Astropy | 🌐 [Repo](https://github.com/OrryxTeam/hermes) |
+| **Tool World Model** <br> *(UCC & IBM Research)* | An agent that learns how software tools fit together by using them rather than reading their documentation, then finds its own workflows through the suite, including ones nobody wrote down. | Python, Bayesian inference | 🔒 Internal research <br> [Overview](https://glibtkachenko.github.io/projects#twm) |
+| **HERMES** <br> *(Exoplanet transit detection)* | A differentiable pipeline that finds planets in Kepler light curves, vets them, and measures its own detection limits. | JAX, Flax NNX, Astropy | [Repo](https://github.com/GlibTkachenko/hermes) <br> [Article](https://glibtkachenko.github.io/projects/hermes/) |
+| **Attnax** <br> *(Attention for JAX)* | Composable attention biases and masks for JAX, lowered onto JAX's own fused kernels where possible, plus the transformer components JAX and Flax don't ship. | JAX, Flax NNX | [Repo](https://github.com/GlibTkachenko/attnax) <br> [Docs](https://attnax.readthedocs.io) |
